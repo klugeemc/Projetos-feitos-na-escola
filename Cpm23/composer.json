@@ -1,0 +1,15 @@
+{
+    "name": "arturcs/cpm23",
+    "autoload": {
+        "psr-4": {
+            "Arturcs\\Cpm23\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArturCSegat",
+            "email": "arturcamerasegat@gmail.com"
+        }
+    ],
+    "require": {}
+}
