@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(rgba(16, 42, 69, 0.85), rgba(16, 42, 69, 0.85)), url(foto2.png);
+    background-position: center;
+    background-size: 2000px,2000px;
+    color: lightgray;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+img{
+    border-radius: 50%;
+    border: 5px lightgray solid;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+table{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.info{
+    font-size: 25px;
+}
+th, td{
+    border: 2px solid lightgray;
+    padding: 5px;
+}
+a{
+    color: lightgray;
+    text-decoration: none;
+    background-color: #4582a850;
+    border-radius: 10px;
+    padding: 2px;
+}
+a:hover {
+    color:lightgray;
+	background: #4582a8;
+    transition: 1s all ease-out;
+}
+.voltar{
+    font-size: 30px;
+    background-color: #4582a868;
+    border-radius: 25%;
+    margin: 30px;
+    padding: 10px;
+}
+.okok{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}

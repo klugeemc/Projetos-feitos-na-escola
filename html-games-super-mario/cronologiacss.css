@@ -1,0 +1,51 @@
+table, th, td{
+	margin:auto;
+	color: #c5cfe6;
+  border: 2px solid lightgray;
+  padding: 5px;
+
+
+}
+
+h1 {
+	color: white;
+  text-align: center;
+}
+
+a{
+	color: lightgray;
+	text-decoration: none;
+	background-color: #4582a850;
+  border-radius: 10px;
+  padding: 2px;
+  font-size: 25px;
+
+}
+
+a:hover {
+  color:lightgray;
+	background: #4582a8;
+  transition: 1s all ease-out;
+}
+
+body {
+
+	background-image: linear-gradient(rgba(16, 42, 69, 0.85), rgba(16, 42, 69, 0.85)), url(foto2.png);
+  background-position: center;
+  background-size: 2000px,2000px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
+}
+
+.voltar{
+    font-size: 30px;
+    background-color: #4582a868;
+    border-radius: 25%;
+    margin: 30px;
+    padding: 10px;
+}
+
+.sorhenrydivo {
+  text-align: center;
+}
